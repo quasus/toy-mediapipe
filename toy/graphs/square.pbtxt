@@ -1,0 +1,8 @@
+input_stream: "input_float"
+output_stream: "output_float"
+
+node {
+  calculator: "SquareCalculator"
+  input_stream: "input_float"
+  output_stream: "output_float"
+}
